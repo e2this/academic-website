@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Kasper
-subtitle: Postdoc at CMU / Software Engineer / and more
+subtitle: B.Sc. at Sharif University Of Technology / Electrical Engineering / and Minor in Computer Science
 ---
 
 I am Mobin Asri an Electrical Engineering senior majoring in Communications and also a minor student of Computer Science at Sharif University of Technology(SUT). SUT is among the first engineering universities in my country. My ranking in our national university entrance exam (Konkoor) was 61st among more than 200,000 participants.
@@ -22,8 +22,8 @@ In 2013, I was a visiting researcher at [NASA Ames Research Center](https://www.
 
 
 ### Contact
-Email (preferred): [kasper.luckow@sv.cmu.edu](mailto:kasper.luckow@sv.cmu.edu)  
-Phone: (650) 335-2889
+Email (preferred): mobin.asri2011@gmail.com 
+Phone: (+98) 911 
 
 **Kasper Søe Luckow**  
 NASA Research Park  
