@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Hi, I'm Mobin
-subtitle: B.Sc. at Sharif University Of Technology
-subtitle: Electrical Engineering 
-subtitle: and Minor in Computer Science
+subtitle: B.Sc. at Sharif University Of Technology / Major in Electrical Engineering / Minor in Computer Science
 ---
 
-I am Mobin Asri an Electrical Engineering senior majoring in Communications and also a minor student of Computer Science at Sharif University of Technology(SUT). SUT is among the first engineering universities in my country. My ranking in our national university entrance exam (Konkoor) was 61st among more than 200,000 participants.
+I am senior studetnt in Electrical Engineering majoring in Communications and also a minor student of Computer Science at Sharif University of Technology(SUT). 
 
 ### Research Interests
 My current research interests include:
