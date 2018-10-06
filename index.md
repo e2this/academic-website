@@ -4,17 +4,19 @@ title: Hi, I'm Mobin
 subtitle: B.Sc. at Sharif University Of Technology / Major in Electrical Engineering / Minor in Computer Science
 ---
 
-I am senior studetnt in Electrical Engineering majoring in Communications and also a minor student of Computer Science at Sharif University of Technology(SUT). 
+I am senior studetnt in Electrical Engineering majoring in Communications and also a minor student of Computer Science at Sharif University of Technology(SUT).
 
 ### Research Interests
 My current research interests include:
 
-- *Symbolic Analysis:* I work on [Symbolic PathFinder](http://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc), a symbolic execution engine built on the software model checker [Java PathFinder](http://babelfish.arc.nasa.gov/trac/jpf). I also maintain [JDart](https://github.com/psycopaths/jdart), a dynamic symbolic execution engine.
-- *Probabilistic Software Analysis:* I'm working on analysis of software placed in stochastic environments, e.g., with the goal of quantifying how *likely* a target event is to occur.
-- *Machine Learning:* I'm investigating how to leverage machine learning techniques as a heuristic for symbolic analysis. I also used machine learning for mining log data from flight-critical systems.
+- *Bioinformatics* Bioinformatics is an area of knowledge in which a lot of other sciences can be used to acheive new discoveries in biology, medicines, health and etc. In other words, it is a multidisciplinary field of knowledge in which experts from many other sciences like biology, algorithms, statistics, artificial intelligence and ets can participate and take role to acheive amazing discoveries. I have done a noticeable number of projects in this new feild of science. 
+- *Statistics and Machine Learning* As I mentioned above, one the sciences that has a vital role to help biologists and geneticists in order to discover novel facts is Statistics. They enable us to make sure how reliable our results are in the experiments conducted mostly by experts in biology and genetics.
 
 ### Background
-Before joining Carnegie Mellon University in 2014, I was affiliated with Aalborg University in Denmark, where I completed my B.Sc. in Software Engineering (2009), M.Sc. Cum Laude in Software Engineering (2011), and Ph.D. in Computer Science (2014).
+
+In my high school, I had the great desire to study Physics so I decided to be prepared for one of the most competetive challenges in Physics in my country. It was *National Olympiad in Physics* and I participated in this competition in 2013 and after two series of exams, I was successfully honored to go to the capital, Tehran, and attend the classes for the final series of exams. After passing both experimental and theoritical exams I recieved the silver medal in September of 2018.
+
+I started my B.Sc. at Sharif University of Technology in September 2014.
 
 During my Ph.D., I worked on temporal verification of real-time embedded systems using a combination of static analysis and Timed Automata model checking using the [UPPAAL](http://www.uppaal.org/) model checker. As part of this effort, I developed TetaSARTS, a tool for generating a Timed Automata description from Java real-time systems written in Safety Critical Java. Among others, I also developed a time predictable version of the [Hardware near Virtual Machine](http://www.icelab.dk/) (HVM), a lean and portable JVM implementation targeting embedded systems.
 
@@ -23,6 +25,7 @@ In 2013, I was a visiting researcher at [NASA Ames Research Center](https://www.
 
 ### Contact
 Email (preferred): mobin.asri2011@gmail.com 
+
 Phone: (+98) 911 
 
 **Kasper Søe Luckow**  
