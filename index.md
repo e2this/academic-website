@@ -41,6 +41,8 @@ A more detailed description is available [here](https://mobinasri.github.io/proj
 After being familiar with this new world of science through the project of Signal and Systems, I talked with Prof. Khalaj and told him my new interest and He told me now its a bit early to start doing research and before that I had to strengthen my background in biology. Let me share his exact words
 >For bio at molecular level that is my research area, I suggest you watch the videos of eric lander, MIT course 700x secret of life. If you found them interesting, I can give you more info. But for this path, you should really love biology!
 
+So I took his advice and started watching the great online class he recommended me. Prof. Lander, one of current pioneers in genomics, taught this course in the best way that it ever could be taught. I learned the base concepts in molecular biology by watching his classes. DNA, gene, RNA, protein were the main concepts that were discussed. I still have the notes I took while watching and I review them whenever it is needed to do so. After watching All those classes, I became more determined to pursue my future education in this field of knowledge.
+
 
 
 ### Contact
