@@ -34,6 +34,7 @@ In my fourth semester, I had the course, Signals and Systems, been taught by [Pr
 The final project was about the four common errors which occur in Illumina sequencers. At that time, I didn't even know what a sequencer is but the project forced me to learn more about sequencers especially the ones produced by Illumina company. 
 One of my friends, Behzad Abdi, and I were partners in this project and we developed a code in which an artificial set of reads are being produced and the four common errors are applied on these reads and make them noisy. Furthurmore, we developed another code to denoise those reads and make them near to real sequences. The codes are written in matlab.
 A more detailed description is available [here](https://mobinasri.github.io/projects/).
+
 ![Illumina Sequencer pipeline (simplified)](/extra_pics/Sequencing-fig1.jpg)
 
 ##### Final Project of Signal and Systems (Errors in Illumina Sequencer)
