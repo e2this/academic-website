@@ -37,7 +37,10 @@ A more detailed description is available [here](https://mobinasri.github.io/proj
 
 ![Illumina Sequencer pipeline (simplified)](/extra_pics/Sequencing-fig1.jpg)
 
-##### Final Project of Signal and Systems (Errors in Illumina Sequencer)
+##### Secret of Life (Online Course on Edx)
+After being familiar with this new world of science through the project of Signal and Systems, I talked with Prof. Khalaj and told him my new interest and He told me now its a bit early to start doing research and before that I had to strengthen my background in biology. Let me share his exact words
+>For bio at molecular level that is my research area, I suggest you watch the videos of eric lander, MIT course 700x secret of life. If you found them interesting, I can give you more info. But for this path, you should really love biology!
+
 
 
 ### Contact
