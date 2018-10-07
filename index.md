@@ -2,7 +2,11 @@
 layout: page
 title: Hi, I'm Mobin
 subtitle: B.Sc. at Sharif University Of Technology / Major in Electrical Engineering / Minor in Computer Science
-bigimg: "/WebPage_Pics/"
+bigimg: 
+      - "/WebPage_Pics/DSC_4149-44.jpg"
+      - "/WebPage_Pics/DSC_4262-151.jpg"
+      - "/WebPage_Pics/photo_2018-10-07_10-53-34.jpg"
+      - "/WebPage_Pics/photo_2018-10-07_10-53-49.jpg"
 ---
 
 I am senior studetnt in Electrical Engineering majoring in Communications and also a minor student of Computer Science at Sharif University of Technology(SUT).
