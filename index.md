@@ -23,28 +23,34 @@ As I mentioned above, Statistics is one the sciences that has a vital role to he
 
 ### Background
 
-##### Physics Olympiad
+##### _Physics Olympiad_
 In my high school, I had the great desire to study Physics so I decided to be prepared for one of the most competetive challenges in Physics in my country. It was *National Olympiad in Physics* and I participated in this competition in 2013 and after two series of exams, I was successfully honored to go to the capital, Tehran, and attend the classes for the final series of exams. After passing both experimental and theoritical exams I recieved the silver medal in September of 2018.
 
-##### Electrical Engineering
+##### _Electrical Engineering_
 I started my B.Sc. at Sharif University of Technology in September 2014. In my first two years of study in Electrical Engineering Department, I was fully devoted to learn engineering concepts and devices used in Communications. Consequently, I selected Communiactions as my branch of study in order to be able to take courses in this feild. 
 
-##### Final Project of Signal and Systems (Errors in Illumina Sequencer)
+##### _Final Project of Signal and Systems (Errors in Illumina Sequencer)_
 In my fourth semester, I had the course, Signals and Systems, been taught by [Prof. Khalaj](http://sharif.edu/~khalaj/). It is one of the most important courses that is being taught in EE Department. Additionally, It has become even more important for me because the final project of this course showed me a new field of research that I had never heard of. 
-The final project was about the four common errors which occur in Illumina sequencers. At that time, I didn't even know what a sequencer is but the project forced me to learn more about sequencers especially the ones produced by Illumina company. 
+
+The final project was about the four common errors which occur in Illumina sequencers. At that time, I didn't even know what a sequencer is but the project forced me to learn more about sequencers especially the ones produced by Illumina company.
+
 One of my friends, Behzad Abdi, and I were partners in this project and we developed a code in which an artificial set of reads are being produced and the four common errors are applied on these reads and make them noisy. Furthurmore, we developed another code to denoise those reads and make them near to real sequences. The codes are written in matlab.
 A more detailed description is available [here](https://mobinasri.github.io/projects/).
 
 ![Illumina Sequencer pipeline (simplified)](/extra_pics/Sequencing-fig1.jpg)
 
-##### Secret of Life (Online Course on Edx)
+##### _Secret of Life (Online Course on Edx)_
 After being familiar with this new world of science through the project of Signal and Systems, I talked with Prof. Khalaj and told him my new interest and he told me now its a bit early to start doing research and before that I had to strengthen my background in biology. Let me share his exact words
 >For bio at molecular level that is my research area, I suggest you watch the videos of eric lander, MIT course 700x secret of life. If you found them interesting, I can give you more info. But for this path, you should really love biology!
 
-So I took his advice and started watching the great online class he recommended me. [Prof. Lander](https://biology.mit.edu/profile/eric-s-lander/), one of current pioneers in genomics and founding director of Broad Institute, taught this course in the best way that it ever could be taught. I learned the base concepts in molecular biology by watching his classes. DNA, gene, RNA, protein were the main concepts that were discussed. I still have the notes I took while watching and I review them whenever it is needed to do so. After watching All those classes, I became more determined to pursue my future education in this field of knowledge.
+So I took his advice and started watching the great online class he recommended me. [Prof. Lander](https://biology.mit.edu/profile/eric-s-lander/), one of current pioneers in genomics and founding director of Broad Institute, taught this course in the best way that it ever could be taught. I learned the base concepts in molecular biology by watching his classes. 
 
-##### Systems Biology
-In my Fifth semester, I took the graduate course of Systems Biology been taught by Prof. Khalaj and [Prof. Motahari](http://sharif.edu/~motahari/index.html).
+Biological molecules like DNA,RNA, protein, their chemical structures and how they participate in the underlying processes of a living cell were the main concepts that were discussed. I still have the notes I took while watching and I review them whenever it is needed to do so. After watching All those classes, I became more determined to pursue my future education in this field of knowledge.
+
+##### _Systems Biology_
+In my Fifth semester, I took the graduate course of Systems Biology been taught by Prof. Khalaj and [Prof. Motahari](http://sharif.edu/~motahari/index.html). 
+
+The syllabus of the course:
 
 - Introduction and Applications in Synthetic Biology
 - Brief review of Cell Biology and Quantitative Biochemistry
@@ -62,6 +68,10 @@ In my Fifth semester, I took the graduate course of Systems Biology been taught 
 - Introduction to Stochastic Gene Expression
 - Synthetic Biology: Current Status and Key Challenges
 
+##### _Advanced Bioinfomatics_
+After passing the course of Systems Biology, I realized that in the next semester the graduate course, _Advanced Bioinformatics_ is going to be held in the Computer Engineering Department. The pre_requisite of this course was the course _Elementary Bioinfomratics_. Although I hadn't passed the mentioned course and Prof. Sharifi-Zarchi didn't think that undergraduate students would be able to follow the course, I insisted on taking the course and finally he accepted that a number of undergradaute students take the course.
+
+This course gave me the ability to start my research practices in Bioinformatics.
 
 
 ### Contact
