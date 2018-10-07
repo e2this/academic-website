@@ -30,12 +30,13 @@ In my high school, I had the great desire to study Physics so I decided to be pr
 I started my B.Sc. at Sharif University of Technology in September 2014. In my first two years of study in Electrical Engineering Department, I was fully devoted to learn engineering concepts and devices used in Communications. Consequently, I selected Communiactions as my branch of study in order to be able to take courses in this feild. 
 
 ##### Final Project of Signal and Systems (Errors in Illumina Sequencer)
-In my fourth semester, I had the course, Signals and Systems, been taught by [Prof. Khalaj](http://sharif.edu/~khalaj/). It is one of the most important courses that is being taught in EE Department. Additionally, It has become even more important for me because the final project of this course showed me a new field of research that I had never heard of. The final project was about the four common errors which occur in Illumina sequencers. At that time, I didn't even know what a sequencer is but the project forced me to learn more about sequencers especially the ones produced by Illumina company. One of my friends, Behzad Abdi, and I were partners in this project and we developed a code in which an artificial set of reads are being produced and the four common errors are applied on these reads and make them noisy. Furthurmore, we developed another code to denoise those reads and make them near to real sequences. The codes are written in matlab.
+In my fourth semester, I had the course, Signals and Systems, been taught by [Prof. Khalaj](http://sharif.edu/~khalaj/). It is one of the most important courses that is being taught in EE Department. Additionally, It has become even more important for me because the final project of this course showed me a new field of research that I had never heard of. 
+The final project was about the four common errors which occur in Illumina sequencers. At that time, I didn't even know what a sequencer is but the project forced me to learn more about sequencers especially the ones produced by Illumina company. 
+One of my friends, Behzad Abdi, and I were partners in this project and we developed a code in which an artificial set of reads are being produced and the four common errors are applied on these reads and make them noisy. Furthurmore, we developed another code to denoise those reads and make them near to real sequences. The codes are written in matlab.
+A more detailed description is available [here](https://mobinasri.github.io/projects/).
 ![Illumina Sequencer pipeline (simplified)](/extra_pics/Sequencing-fig1.jpg)
 
-During my Ph.D., I worked on temporal verification of real-time embedded systems using a combination of static analysis and Timed Automata model checking using the [UPPAAL](http://www.uppaal.org/) model checker. As part of this effort, I developed TetaSARTS, a tool for generating a Timed Automata description from Java real-time systems written in Safety Critical Java. Among others, I also developed a time predictable version of the [Hardware near Virtual Machine](http://www.icelab.dk/) (HVM), a lean and portable JVM implementation targeting embedded systems.
-
-In 2013, I was a visiting researcher at [NASA Ames Research Center](https://www.nasa.gov/centers/ames/home/index.html), Mountain View, where I worked with [Corina Păsăreanu](https://ti.arc.nasa.gov/profile/pcorina/) on symbolic execution, temporal analysis of systems, and probabilistic software analysis.
+##### Final Project of Signal and Systems (Errors in Illumina Sequencer)
 
 
 ### Contact
